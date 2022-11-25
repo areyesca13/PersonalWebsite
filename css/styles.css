@@ -1,0 +1,50 @@
+
+/************* TAG SELECTORS *************/
+body{
+    margin: auto;
+    background-color: #b8d0d6;
+  }
+  hr{
+  
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 60%;
+  }
+  h1{
+    color: darkgrey;
+  
+  }
+  h2{
+    color: darkgrey;
+  }
+  h3{
+    color: darkgrey;
+  }
+  p{
+    color: grey;
+  }
+  /************* CLASS SELECTORS *************/
+  a:hover{
+    color: pink;
+  }
+  
+  .top-container{
+    max-width: 100%;
+    height: auto;
+  
+    
+  }
+  .middle-container{
+    color: blue;
+    padding: 20px;
+    margin: 10px;
+  }
+  .bottom-container{
+    color: green;
+  }
+  .profile{
+    margin: 10px;
+  }
+  /****** ID SELECTORS***/
+  
